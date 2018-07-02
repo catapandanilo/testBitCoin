@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Mobile BitCoin</string>
+    <string name="carregando_api_bpi">Carregando Api BPI</string>
+    <string name="carregando_api_block">Carregando Api BPI</string>
+    <string name="aguarde">Aguarde …</string>
+    <string name="erro_carregar_api_bpi">Erro ao carregar a api BPI :</string>
+    <string name="erro_carregar_api_block">Erro ao carregar a api BlockChain :</string>
+    <string name="dollar">$</string>
+    <string name="ultimos_15_dias">Últimos 15 dias</string>
+
+</resources>
